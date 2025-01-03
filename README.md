@@ -10,3 +10,9 @@
 ## Author: Faraz Ahmad
 
 ### I am making this application in the process of learning some robust backend frameworks.....!
+
+- To make a new project in javascript use:
+
+```bash
+  nest new project-name --language js
+```
